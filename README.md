@@ -1,16 +1,17 @@
-## Hi there 👋
+<img align="right" src="./22.png" width="115" alt="kaneki" />
 
-<!--
-**saintemartyre/saintemartyre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About
 
-Here are some ideas to get you started:
+Focusing on information security, networking, and operating systems.  
+Working with traffic analysis, web security, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br clear="right" />
+<br />
+
+<p>
+  <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=EF4444" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-161B22?style=for-the-badge&logo=gnubash&logoColor=EF4444" alt="Bash" />
+  <img src="https://img.shields.io/badge/Wireshark-161B22?style=for-the-badge&logo=wireshark&logoColor=EF4444" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Burp_Suite-161B22?style=for-the-badge&logo=burpsuite&logoColor=EF4444" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Obsidian-161B22?style=for-the-badge&logo=obsidian&logoColor=EF4444" alt="Obsidian" />
+</p>
